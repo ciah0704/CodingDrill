@@ -1,1 +1,2 @@
-# prog_exercise
+# Coding Drill
+git@github.com:vkroz/CodingDrill.git
